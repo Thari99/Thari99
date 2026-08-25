@@ -427,19 +427,18 @@ A modern POS platform designed for inventory, billing and business operations.
 # 📊 GitHub Statistics
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Thari99&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Tharinda's GitHub Stats"
+  />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Thari99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thari99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thari99&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Thari99&theme=tokyonight&hide_border=true" />
-
-</p>
-
 ---
 
 # 📈 Contribution Activity
